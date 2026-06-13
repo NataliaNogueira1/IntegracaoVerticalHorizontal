@@ -68,7 +68,7 @@ Cada pasta de aula contém:
 
 ## 🔗 Projeto Integrador (PII3)
 
-🔗 **Repositório do Projeto Integrador:** [[inserir link aqui](https://github.com/MarcelaMulato/404NotFound/tree/develop)]
+🔗 **Repositório do Projeto Integrador:** https://github.com/MarcelaMulato/404NotFound/tree/develop
 
 O Projeto Integrador III (PII3) aplica os conceitos estudados na disciplina em uma solução prática de integração vertical, utilizando sensores, microcontroladores (ESP32), protocolo MQTT, servidor e dashboard para monitoramento industrial.
 
