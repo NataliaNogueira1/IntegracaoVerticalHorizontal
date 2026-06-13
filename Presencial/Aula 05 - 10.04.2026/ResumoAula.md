@@ -11,17 +11,28 @@
 ## Tópicos abordados
 
 - Conceituação da Pirâmide da Automação
-- Comparação de SDCD com sistemas centralizados
-- Estudo de caso da empresa TSMC
+- Função de cada nível hierárquico na integração industrial
+- Relação entre os níveis e a integração vertical
 
 ## Pirâmide da Automação
 
-- Estrutura hierárquica que organiza os sistemas de automação industrial em categorias
-- Nível 5: ERP - Gestão empresarial e estratégica
-- Nível 4: MES - Gestão da produção em tempo real
-- Nível 3: Supervisão - SCADA e IHM para operadores
-- Nível 2: Controle - CLP/SDCD com processamento em tempo real
-- Nível 1: Sensores - Coleta de dados e execução
+- Estrutura hierárquica que organiza os sistemas de automação industrial em cinco níveis
+- Níveis inferiores executam o processo, intermediários controlam e monitoram, superiores planejam e decidem
+- A integração entre todos os níveis garante que a indústria funcione como um sistema único e conectado
+
+## Níveis da pirâmide
+
+- Nível 1: Sensores e Atuadores — coleta de dados físicos e execução de ações no processo
+- Nível 2: Controle — CLP e SDCD realizam processamento em tempo real e tomam decisões automáticas
+- Nível 3: Supervisão — SCADA e IHM permitem visualização, interação do operador e registro histórico
+- Nível 4: MES — gerencia a produção em tempo real, define recursos e monitora desempenho
+- Nível 5: ERP — gestão empresarial e planejamento estratégico da organização
 
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+## Observações
+
+- Sem essa estrutura, os sistemas operam de forma isolada e a produção perde eficiência
+- A pirâmide materializa o conceito de integração vertical: dados fluem do chão de fábrica até a gestão estratégica
+
